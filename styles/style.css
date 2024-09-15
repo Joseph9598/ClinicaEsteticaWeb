@@ -7,8 +7,8 @@
     --cor-terciaria:#e7c3d4;
 }
 *{
-   margin: %;
-   padding: 5px;
+   margin: 0%;
+   padding: 8px;
 }  
 body{
     
@@ -37,17 +37,18 @@ body{
     font-family:'Noto Sans',sans-serif;
     /* 1rem=16px */
     font-size: 4.37rem;
-    font-weight: 400;
+    font-weight: 450;
 }
 .apresentacao__subtitulo{
     font-family: "Playwrite Hrvatska", sans-serif;
     font-size: 1.25rem; 
+    font-weight: 700;
 }
 
 .destaque{
     font-family: 'Nunito Sans',sans-serif;
     font-size: 1.87rem;
-    font-weight: 450;
+    font-weight: 1500;
 }
 
 .apresentacao__IMG__dois{
