@@ -16,7 +16,7 @@ body{
     
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color:wheat ;
+    background-color:var(--cor-principal) ;
     color:#3E2F33 ;
     background-image: url(../assets/jovem-mulher-caucasiana-recebendo-massagem-anti-idade_1098-18121.avif);
     background-repeat: no-repeat;
@@ -138,4 +138,3 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
-    
