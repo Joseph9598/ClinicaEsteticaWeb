@@ -29,4 +29,4 @@ Botões de link para os perfis no Instagram.
 ├── about.html          # Página 'Sobre Nós'
 ├── styles/
 │   └── style.css       # Arquivo CSS para estilização do site
-└── images/             # Imagens usadas no site
+└── assets/             # Imagens usadas no site
