@@ -10,9 +10,11 @@ O site possui uma navegação simples, com informações sobre os serviços ofer
 
 HTML5: Estrutura do site.
 CSS3: Estilização e layout responsivo.
+
 🔗 Acesse os Perfis no Instagram
-Instagram da Dona: Nome da Dona
-Instagram da Clínica: Nome da Clínica
+
+Instagram da Dona: Danubia Viza
+Instagram da Clínica: Estética Clean
 
 🎨 Funcionalidades
 
