@@ -22,3 +22,11 @@ Instagram da Clínica: Estética Clean
 Exibição dos serviços de estética.
 Informações de contato e localização.
 Botões de link para os perfis no Instagram.
+
+📂 Estrutura de Arquivos
+
+├── index.html          # Página inicial com introdução e serviços
+├── about.html          # Página 'Sobre Nós'
+├── styles/
+│   └── style.css       # Arquivo CSS para estilização do site
+└── images/             # Imagens usadas no site
