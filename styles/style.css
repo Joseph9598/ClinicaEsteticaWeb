@@ -18,8 +18,8 @@ body{
     box-sizing: border-box;
     background-color:var(--cor-principal) ;
 
-    color:#856870 ;
-    background-color: #7a3f4f;
+    color:#5f5256 ;
+    background-color: #743c4b;
     background-image: url(../assets/imagem\ de\ fundo\ 2.jpeg);
     background-repeat: repeat;
     
@@ -73,9 +73,9 @@ body{
 }
 .apresentacao__conteudo__links{
     font-size: 1.56rem;
-    border: 2px solid var(--cor-principal) ;
+    border: 2px solid #c9acb4 ;
     /* background-color: #B37995;  */
-    color: black;
+    color: rgb(85, 60, 60);
     text-decoration: none;
     width: 50%;
     border-radius: 5px;
