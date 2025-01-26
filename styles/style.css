@@ -17,11 +17,15 @@ body{
     /* height: 100vh; */
     box-sizing: border-box;
     background-color:var(--cor-principal) ;
+
     color:#856870 ;
     background-color: #7a3f4f;
     background-image: url(../assets/imagem\ de\ fundo\ 2.jpeg);
     background-repeat: repeat;
     
+
+    
+
 }
 .apresentacao{
     box-sizing: border-box;
