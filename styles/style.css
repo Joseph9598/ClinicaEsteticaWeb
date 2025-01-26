@@ -75,7 +75,7 @@ body{
     font-size: 1.56rem;
     border: 2px solid #c9acb4 ;
     /* background-color: #B37995;  */
-    color: rgb(85, 60, 60);
+    color: rgb(107, 62, 62);
     text-decoration: none;
     width: 50%;
     border-radius: 5px;
@@ -90,7 +90,7 @@ body{
     align-items: center;
 }
 .apresentacao__conteudo__links:hover{
-    background-color:var(--cor-secundaria);
+    background-color:#dba9b7;
     cursor:pointer;
 }
 .rodape{
