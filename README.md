@@ -1,4 +1,4 @@
-💅 Site de Estética
+## 💅 Site de Estética
 
 Este é o repositório do site de estética criado para a clínica da Danubia Viza. O site foi desenvolvido utilizando HTML e CSS, com foco em apresentar os serviços oferecidos pela clínica de estética de forma elegante e moderna.
 
@@ -17,13 +17,13 @@ Instagram da Dona: Danubia Viza
 
 Instagram da Clínica: Estética Clean
 
-🎨 Funcionalidades
+## 🎨 Funcionalidades
 
 Exibição dos serviços de estética.
 Informações de contato e localização.
 Botões de link para os perfis no Instagram.
 
-📂 Estrutura de Arquivos
+## 📂 Estrutura de Arquivos
 
 ├── index.html          # Página inicial com introdução e serviços
 ├── about.html          # Página 'Sobre Nós'
